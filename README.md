@@ -1,3 +1,5 @@
+deneme
+
 # Training-a-Custom-TensorFlow-2.X-Object-Detector
 ### Learn how to Train a TensorFlow Custom Object Detector with TensorFlow-GPU
 
